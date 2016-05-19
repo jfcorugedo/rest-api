@@ -19,7 +19,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 public class SwaggerConfig {
 	
 	@Bean
-	public Docket yoigoApi() {
+	public Docket restApi() {
 		return new Docket(DocumentationType.SWAGGER_2)
 					.groupName("restApi")
 					.apiInfo(apiInfo())
