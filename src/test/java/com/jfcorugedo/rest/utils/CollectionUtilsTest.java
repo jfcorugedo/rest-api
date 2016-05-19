@@ -1,4 +1,4 @@
-package com.jfcorugedo.utils;
+package com.jfcorugedo.rest.utils;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
@@ -9,8 +9,6 @@ import java.util.Map;
 import java.util.Set;
 
 import org.junit.Test;
-
-import com.jfcorugedo.rest.utils.CollectionUtils;
 
 public class CollectionUtilsTest {
 

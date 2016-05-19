@@ -1,4 +1,4 @@
-package com.jfcorugedo.mobile;
+package com.jfcorugedo.rest.mobile;
 
 import static com.jayway.restassured.RestAssured.get;
 import static org.hamcrest.Matchers.equalTo;

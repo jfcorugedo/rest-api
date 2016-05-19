@@ -1,4 +1,4 @@
-package com.jfcorugedo;
+package com.jfcorugedo.rest;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
