@@ -7,6 +7,7 @@ import lombok.experimental.Accessors;
 @Accessors(chain=true)
 public class Mobile {
 
+	private String id;
 	private String name;
 	private String brand;
 	private String color;
