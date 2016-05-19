@@ -5,3 +5,6 @@ Demo REST API using Spring Boot. It's also integrated with Swagger UI.
 * Spring Boot 1.3.5
 * lombok
 * Swagger 2
+
+
+The result is deployed [here](https://jf-rest-api.herokuapp.com/)
