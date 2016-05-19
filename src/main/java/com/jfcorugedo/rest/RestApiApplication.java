@@ -1,4 +1,4 @@
-package com.jfcorugedo;
+package com.jfcorugedo.rest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

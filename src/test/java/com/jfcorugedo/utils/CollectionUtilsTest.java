@@ -10,6 +10,8 @@ import java.util.Set;
 
 import org.junit.Test;
 
+import com.jfcorugedo.rest.utils.CollectionUtils;
+
 public class CollectionUtilsTest {
 
 	@Test

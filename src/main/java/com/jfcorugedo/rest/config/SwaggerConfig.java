@@ -1,4 +1,4 @@
-package com.jfcorugedo.config;
+package com.jfcorugedo.rest.config;
 
 import static springfox.documentation.builders.PathSelectors.regex;
 

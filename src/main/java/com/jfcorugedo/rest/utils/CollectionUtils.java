@@ -1,4 +1,4 @@
-package com.jfcorugedo.utils;
+package com.jfcorugedo.rest.utils;
 
 import java.util.ArrayList;
 import java.util.Collection;

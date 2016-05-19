@@ -1,4 +1,4 @@
-package com.jfcorugedo.mobile;
+package com.jfcorugedo.rest.mobile;
 
 import lombok.Data;
 import lombok.experimental.Accessors;

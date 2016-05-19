@@ -1,4 +1,4 @@
-package com.jfcorugedo.mobile;
+package com.jfcorugedo.rest.mobile;
 
 import static org.springframework.web.bind.annotation.RequestMethod.*;
 
@@ -35,8 +35,8 @@ public class MobileRestController {
 										"Super Plan", 
 										"More MB and more minutes. It's perfect to demanding users", 
 										30.0, 
-										Integer.MAX_VALUE, 
-										2048));
+										2048, 
+										Integer.MAX_VALUE));
 		
 		return new ResponseEntity<>(mobile, HttpStatus.OK);
 	}
