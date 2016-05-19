@@ -1,0 +1,1 @@
+web: $JAVA_HOME/bin/java -Dserver.port=$PORT -jar target/rest-api.jar
